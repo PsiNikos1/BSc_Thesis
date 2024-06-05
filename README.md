@@ -1,0 +1,2 @@
+# BSc_Thesis
+an_augmented_reality_environment_controlled_by_a_haptic_device
